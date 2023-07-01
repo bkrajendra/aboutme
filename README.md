@@ -26,13 +26,12 @@
 
 ### **About me-**
 
-- 🔭 I’m currently working on [Tunneling For Embedded devices].
+- 🔭 I’m currently working on AWS - EKS.
 
-- 🌱 I’m currently learning `Python`.
+- 🌱 Working on best practices with earning domain-driven development.
 
-- 📰 [Website](https://www.iocare.in)
+- 📰 [Website](https://rajendrakhope.com)
 
-- [Profile](https://app.iocare.in/)
 
 
 ### **Technology Stack-**
