@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on AWS - EKS.
 
-- 🌱 Working on best practices with earning domain-driven development.
+- 🌱 Working on best practices with learning domain-driven development.
 
 - 📰 [Website](https://rajendrakhope.com)
 
