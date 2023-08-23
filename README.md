@@ -1,18 +1,16 @@
 # Hello there 👋
-
 <div>
   <a href="https://stackoverflow.com/users/5736100/rajendra">
-
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" alt="Vijay's StackOverflow" width="22px">
-
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" alt="Rajendra's StackOverflow" width="22px">
   </a>
   <a href="https://www.linkedin.com/in/bkrajendra/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="Vijay's LinkedIn" width="22px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="Rajendra's LinkedIn" width="22px">
   </a>
   <a href="https://twitter.com/bkrajendra">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" alt="Vijay's Twitter" width="22px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" alt="Rajendra's Twitter" width="22px">
   </a>
 </div>
+
 </br>
 
 <div>
