@@ -6,9 +6,6 @@
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" alt="Vijay's StackOverflow" width="22px">
     </code>
   </a>
-  <a href="https://angel.co/company/iocare">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angellist.svg" alt="Vijay's AngelList" width="22px"></code>
-  </a>
   <a href="https://www.linkedin.com/in/bkrajendra/">
     <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="Vijay's LinkedIn" width="22px"></code>
   </a>
