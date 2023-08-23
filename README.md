@@ -2,15 +2,15 @@
 
 <div>
   <a href="https://stackoverflow.com/users/5736100/rajendra">
-    <code>
+
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" alt="Vijay's StackOverflow" width="22px">
-    </code>
+
   </a>
   <a href="https://www.linkedin.com/in/bkrajendra/">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="Vijay's LinkedIn" width="22px"></code>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" alt="Vijay's LinkedIn" width="22px">
   </a>
   <a href="https://twitter.com/bkrajendra">
-    <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" alt="Vijay's Twitter" width="22px"></code>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" alt="Vijay's Twitter" width="22px">
   </a>
 </div>
 </br>
